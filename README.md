@@ -2,13 +2,13 @@
 
 This project is the code for the charging station/BWF transmitter for your [liam - DIY Robot lawn mower](https://github.com/sm6yvr/liam). 
 
-It will send out a 100µs, then delay 10ms.
+It will send out a 250µs, then delay 8ms.
 
 
-    100µs
+    250µs
      __
     |  |
-    |  |        10ms
+    |  |        8ms
     |  |   ______________
        |  |
        |  |

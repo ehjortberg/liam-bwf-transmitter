@@ -4,10 +4,10 @@
    This program will send out a +/- signal of 100µs, then delay 10ms.
  
    
-   100µs
+   250µs
     __                           
    |  |                           
-   |  |        10ms                
+   |  |        8ms                
    |  |   ______________
       |  |             
       |  |              
